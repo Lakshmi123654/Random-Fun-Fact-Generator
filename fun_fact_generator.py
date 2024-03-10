@@ -22,6 +22,6 @@ if __name__ == "__main__" :
 
     while True :
 
-        sleep (420)
-
         send_notification ("Random Fun Fact !!".title (), f"\n{x}".title ())
+
+        sleep (420)
